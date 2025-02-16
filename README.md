@@ -1,4 +1,4 @@
-# weddingapp
+# wedding-app
 
 The wedding industry is a massive and growing market worldwide, but planning and managing a wedding can be stressful and time-consuming. This project aims to create a wedding app that helps to solve common issues related to wedding events.
 
